@@ -32,6 +32,9 @@ https://lnav.org/
 #### goaccess
 https://goaccess.io/
 
+#### angle-grinder
+https://github.com/rcoh/angle-grinder
+
 ## __References and resources__
 - https://twitter.com/amilajack/status/1479328649820000256 - might be useful to review for additional tools
 - https://github.com/logpai/loghub
