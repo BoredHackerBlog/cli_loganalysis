@@ -381,5 +381,11 @@ g Engine; http://nmap.org/book/nse.html)00404Not Found---(empty)-------
   "10.47.42.68"
 ]
 
+# printing formatted line with jq
+# input
+# {"names": [ {"first":"jason", "last": "doe" }, {"first":"jane", "last": "doe" } ] }
+➜ jq '.names[] | ("First name is " + .first + " last name is " + .last )'
+"First name is jason last name is doe"
+"First name is jane last name is doe"
 ```
 
