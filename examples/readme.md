@@ -383,7 +383,7 @@ g Engine; http://nmap.org/book/nse.html)00404Not Found---(empty)-------
 ```
 
 ## __jq custom print line__
-```
+```sh
 # printing formatted line with jq
 # input
 # {"names": [ {"first":"jason", "last": "doe" }, {"first":"jane", "last": "doe" } ] }
