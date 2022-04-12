@@ -380,7 +380,10 @@ g Engine; http://nmap.org/book/nse.html)00404Not Found---(empty)-------
   "64.135.77.30",
   "10.47.42.68"
 ]
+```
 
+## __jq custom print line__
+```
 # printing formatted line with jq
 # input
 # {"names": [ {"first":"jason", "last": "doe" }, {"first":"jane", "last": "doe" } ] }
